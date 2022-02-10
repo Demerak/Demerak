@@ -17,15 +17,22 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * Playing around with my raspberry pi
 * Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
 
-
 ### Things I've worked on and are completed (Archived) :green_book:
 #### Personal Project
+
+##### Java
 * TicTacToe Game made using Java with GUI interface 
+
+##### Python
 * Python Bot on my Discord Server run on one of my raspberry pis
 * I made a multitude of Python Scrapper (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
-* Setup a smart mirror using [MagicMirror](https://github.com/MichMich/MagicMirror)
+
+##### JavaScript & Web Dev
 * Create a website using JavaScript ([my website](https://demerak.github.io/alex-app/))
-* TODO
+
+###### Hardware, Linux, Cloud :cloud: & Ethical Hacking
+* Setup a smart mirror using [MagicMirror](https://github.com/MichMich/MagicMirror)
+* Setup a hacking workspace using Kasm, docker container, and VM on Azure (ubuntu) [see NetworkChuck Video](https://www.youtube.com/watch?v=U7e-mcJdZok). In his tutorial he used Linode but I decided to use Azure since I have a student subscription.
 
 #### Work-Related Project
 * I developed data extraction tools using Python to automate manual reporting tasks, saving days' worth of efforts recurrently and providing data previously inaccessible. 
