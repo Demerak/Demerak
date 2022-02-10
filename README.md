@@ -14,7 +14,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 * ```System.out.println("Learning Java")```
 * Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python). 
-* Playing around with my raspberry pie 
+* Playing around with my raspberry pi
 
 
 ### Things I've worked on and are completed (Archived) :green_book:
