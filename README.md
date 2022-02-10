@@ -32,7 +32,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 ##### Hardware, Linux, Cloud :cloud: & Ethical Hacking
 * Setup a smart mirror using [MagicMirror](https://github.com/MichMich/MagicMirror)
-* Setup a hacking workspace using Kasm, docker container, and VM on Azure (ubuntu) [see NetworkChuck Video](https://www.youtube.com/watch?v=U7e-mcJdZok). In his tutorial he used Linode but I decided to use Azure since I have a student subscription.
+* Setup a hacking workspace using Kasm, docker container, and VM on Azure (ubuntu) [see NetworkChuck Video](https://www.youtube.com/watch?v=U7e-mcJdZok). In his tutorial he used Linode but I decided to use Azure since I have a student subscription. When using Azure, you need to add a new Inbound port rule to allow HTTPS connection, it won't work otherwise. 
 
 #### Work-Related Project
 * I developed data extraction tools using Python to automate manual reporting tasks, saving days' worth of efforts recurrently and providing data previously inaccessible. 
