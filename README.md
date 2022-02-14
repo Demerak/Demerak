@@ -22,7 +22,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 ##### Java
 * TicTacToe game made using Java with GUI interface 
-* Snake game with GUI interface([Snake Game](https://github.com/Demerak/SnakeGame))
+* Snake game with GUI interface ([Snake Game](https://github.com/Demerak/SnakeGame))
 
 ##### Python
 * Python Bot on my Discord Server run on one of my raspberry pis
