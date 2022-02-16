@@ -14,6 +14,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 * ```System.out.println("Learning Java")```
 * Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python). 
+* I'm starting to learn about 3D graphics programming, more specifically LWJGL
 * Playing around with my raspberry pi
 * Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
 
