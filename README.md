@@ -13,9 +13,9 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 ### Things I'm working on right now :writing_hand:
 
 * ```System.out.println("Learning Java")```
+* Creating a new Discord bot using Java instead of Python
 * Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python). 
 * I'm starting to learn about 3D graphics programming, more specifically LWJGL
-* Playing around with my raspberry pi
 * Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
 
 ### Things I've worked on and are completed (Archived) :green_book:
@@ -26,7 +26,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * Snake game with GUI interface ([Snake Game](https://github.com/Demerak/SnakeGame))
 
 ##### Python
-* Python Bot on my Discord Server run on one of my raspberry pis
+* Python Bot on my Discord Server run on one of my raspberry pi
 * I made a multitude of Python Scrapper (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
 
 ##### JavaScript & Web Dev
