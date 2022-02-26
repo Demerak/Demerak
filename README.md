@@ -15,7 +15,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * ```System.out.println("Learning Java")```
 * Creating a new Discord bot using Java instead of Python
 * Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python). 
-* I'm starting to learn about 3D graphics programming, more specifically LWJGL
+* I'm starting to learn about 3D and 2D graphics programming, more specifically LWJGL
 * Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
 
 ### Things I've worked on and are completed (Archived) :green_book:
