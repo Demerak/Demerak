@@ -13,7 +13,6 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 ### Things I'm working on right now :writing_hand:
 
 * ```System.out.println("Learning Java")```
-* Creating a new Discord bot using Java instead of Python
 * Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
 * I'm starting to learn about 3D (LWJGL) and 2D graphics programming, see my [latest 2D project](https://github.com/Demerak/2DGame)
 * Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
