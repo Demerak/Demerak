@@ -22,7 +22,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 #### Personal Project
 
 ##### Java
-* TicTacToe game made using Java with GUI interface 
+* TicTacToe game made using Java with GUI interface ([TicTacToe Game](https://github.com/Demerak/TicTacToeGUI))
 * Snake game with GUI interface ([Snake Game](https://github.com/Demerak/SnakeGame))
 
 ##### Python
