@@ -13,7 +13,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 ### Things I'm working on right now :writing_hand:
 
 * Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket.
-* Currently developing a dashboard to visualize real-time data accessed via the OBD2 port. [dashboard](https://github.com/Demerak/car-dashboard)\
+* Currently developing a dashboard to visualize real-time data accessed via the OBD2 port. [dashboard](https://github.com/Demerak/car-dashboard)
 * Always exploring new resources to enhance data visualization in Python or Javascript.
 * Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express.
 * Creating a new portfolio website using Nextjs
