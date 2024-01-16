@@ -1,22 +1,23 @@
 
 ## Hi there 👋 I’m @Demerak
 
-I am an undergraduate student studying toward the Bachelor of Applied Science in Mechanical Engineering and the Bachelor of Science in Computing Technology (COOP). I am currently in my fifth year pursuing this BASc and I have finally completed all the courses required to graduate in Mechanical Engineering. I'm now pursuing my studies part-time to complete the remaining computing technology classes. 
+I graduated with a BASc in Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa. While initially focused on Mechanical Engineering, my growing passion for software led me to pursue a double major. I completed Mechanical Engineering requirements in 2022 and continued part-time to achieve the Computing Technology BSc which I completed in 2023. 
 
 ### 📄 Want to know more?
 
-[Here's my website.](https://demerak.github.io/alex-app/) 
+[Here's my website.]()  🚧 I'm currently working on updating my portfolio. 
 
 ## What I'm working on
 I started this section in 2022. Here's what I have done since then. Once I'm done with something, I move it into the archive section. 
 
 ### Things I'm working on right now :writing_hand:
 
-* ```System.out.println("Learning Java")```
-* Learning mobile app development using Android Studio
-* Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
-* I'm starting to learn about 3D (LWJGL) and 2D graphics programming, see my [latest 2D project](https://github.com/Demerak/2DGame)
-* Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
+* Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket.
+* Currently developing a dashboard to visualize real-time data accessed via the OBD2 port. [dashboard](https://github.com/Demerak/car-dashboard)\
+* Always exploring new resources to enhance data visualization in Python or Javascript.
+* Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express.
+* Creating a new portfolio website using Nextjs
+
 
 ### Things I've worked on and are completed (Archived) :green_book:
 #### Personal Project
@@ -30,14 +31,23 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * I made a multitude of Python Scrapper (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
 
 ##### JavaScript & Web Dev
-* Create a website using JavaScript ([my website](https://demerak.github.io/alex-app/))
+* Create a website using JavaScript ([my website](https://demerak.github.io/alex-app/)) 🚧 This is actually my first attempt at a portfolio website
+* Learning JavaScript (on pause right now, see [learning folder](https://github.com/Demerak/Learning))
+
+#### Other
+* Learning mobile app development using Android Studio
+* Refining my Python skills following this Data Analyst with Python course [datacamp website](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
+* I'm starting to learn about 3D (LWJGL) and 2D graphics programming, see my [latest 2D project](https://github.com/Demerak/2DGame)
+
 
 ##### Hardware, Linux, Cloud :cloud: & Ethical Hacking
 * Setup a smart mirror using [MagicMirror](https://github.com/MichMich/MagicMirror)
-* Setup a Kasm workspace which streams to my device isolated instance of pretty much anything using Docker containers, and setup a VM on Azure (ubuntu) [see NetworkChuck Video](https://www.youtube.com/watch?v=U7e-mcJdZok). In his tutorial he used Linode but I decided to use Azure since I have a student subscription. When using Azure, you need to add a new Inbound port rule to allow HTTPS connection, it won't work otherwise. 
+* Setup a Kasm workspace which streams to my device isolated instance of pretty much anything using Docker containers, and set up a VM on Azure (ubuntu) [see NetworkChuck Video](https://www.youtube.com/watch?v=U7e-mcJdZok). In his tutorial he used Linode but I decided to use Azure since I have a student subscription. When using Azure, you need to add a new Inbound port rule to allow HTTPS connection, it won't work otherwise. 
 
 #### Work-Related Project
-* I developed data extraction tools using Python to automate manual reporting tasks, saving days' worth of efforts recurrently and providing data previously inaccessible. 
+*	Leading data insight efforts to support the deployment of a new plant, I extract data and store it locally in a DuckDB database to enable local analysis. I then translate these insights into actionable recommendations.
+*	Developed a React-based dashboard that effectively presented our data, including previously inaccessible competitor analysis data, in an easy-to-understand format. This facilitated targeted regional improvements, strengthening our position and market share.
+* I developed data extraction tools using Python to automate manual reporting tasks, recurrently saving days' worth of effort and providing previously inaccessible data. 
   * Created a user-friendly web tool to allow non-technical users to effectively access and work with system data. It's a web app that I made using Django to allow other employees to use my reporting tool. 
 * Developed a standalone reporting tool to automatically track changes to parcel sorter machine settings that are difficult and time-consuming to monitor manually. 
 
