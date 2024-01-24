@@ -12,10 +12,10 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 ### Things I'm working on right now :writing_hand:
 
-* Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket.
-* Currently developing a dashboard to visualize real-time data accessed via the OBD2 port. [dashboard](https://github.com/Demerak/car-dashboard)
-* Always exploring new resources to enhance data visualization in Python or Javascript.
-* Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express.
+* Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket
+* Currently developing a dashboard to visualize real-time vehicle data accessed via the OBD2 port [dashboard](https://github.com/Demerak/car-dashboard)
+* Always exploring new resources to enhance data visualization in Python or Javascript
+* Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express
 * Creating a new portfolio website using Nextjs
 
 
@@ -27,8 +27,8 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * Snake game with GUI interface ([Snake Game](https://github.com/Demerak/SnakeGame))
 
 ##### Python
-* Python Bot on my Discord Server run on one of my raspberry pi
-* I made a multitude of Python Scrapper (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
+* Python Bot on my Discord Server run on one of my Raspberry Pi
+* I made a multitude of Python scrappers (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
 
 ##### JavaScript & Web Dev
 * Create a website using JavaScript ([my website](https://demerak.github.io/alex-app/)) 🚧 This is actually my first attempt at a portfolio website
