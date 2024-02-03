@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I’m @Demerak
 
-I graduated with a BASc in Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa. While initially focused on Mechanical Engineering, my growing passion for software led me to pursue a double major. I completed Mechanical Engineering requirements in 2022 and continued part-time to achieve the Computing Technology BSc which I completed in 2023. 
+I graduated with a BASc in Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa. While initially focused on Mechanical Engineering, my growing passion for software led me to pursue a double major. I completed Mechanical Engineering requirements in 2021 and continued part-time to achieve the Computing Technology BSc which I completed in 2023. 
 
 ### 📄 Want to know more?
 
@@ -27,7 +27,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * Snake game with GUI interface ([Snake Game](https://github.com/Demerak/SnakeGame))
 
 ##### Python
-* Python Bot on my Discord Server run on one of my Raspberry Pi
+* Python Bot on my Discord Server runs on one of my Raspberry Pi
 * I made a multitude of Python scrappers (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
 
 ##### JavaScript & Web Dev
@@ -46,7 +46,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 #### Work-Related Project
 *	Leading data insight efforts to support the deployment of a new plant, I extract data and store it locally in a DuckDB database to enable local analysis. I then translate these insights into actionable recommendations.
-*	Developed a React-based dashboard that effectively presented our data, including previously inaccessible competitor analysis data, in an easy-to-understand format. This facilitated targeted regional improvements, strengthening our position and market share.
+*	Developed a React-based dashboard, supported by an Express.js backend, to effectively present our data, including previously inaccessible competitor analysis data, in an easy-to-understand format. This facilitated targeted regional improvements, strengthening our position and market share.
 * I developed data extraction tools using Python to automate manual reporting tasks, recurrently saving days' worth of effort and providing previously inaccessible data. 
   * Created a user-friendly web tool to allow non-technical users to effectively access and work with system data. It's a web app that I made using Django to allow other employees to use my reporting tool. 
 * Developed a standalone reporting tool to automatically track changes to parcel sorter machine settings that are difficult and time-consuming to monitor manually. 
