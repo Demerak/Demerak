@@ -1,19 +1,20 @@
 
 ## Hi there 👋 I’m @Demerak
 
-I graduated with a BASc in Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa. While initially focused on Mechanical Engineering, my growing passion for software led me to pursue a double major. I completed Mechanical Engineering requirements in 2021 and continued part-time to achieve the Computing Technology BSc which I completed in 2023. 
+I graduated with a BASc in Mechanical Engineering and a BSc in Computing Technology from the University of Ottawa. While initially focused on Mechanical Engineering, my growing passion for software led me to pursue a double major. I completed Mechanical Engineering requirements in 2021 and continued part-time to achieve the Computing Technology BSc, which I completed in 2023. 
 
 ### 📄 Want to know more?
 
 [Here's my website.]()  🚧 I'm currently working on updating my portfolio. 
 
 ## What I'm working on
-I started this section in 2022. Here's what I have done since then. Once I'm done with something, I move it into the archive section. 
+I started this section in 2022. Here's what I have done since then. Once I'm done with a project, I'll move it into the archive section. 
 
 ### Things I'm working on right now :writing_hand:
 
-* Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket
+* I am working on a desktop application for my relatives to allow them to edit PDFs for free [Private Desktop Application PDF Editor](https://github.com/Demerak/desktop-private-pdf-editor)
 * Currently developing a dashboard to visualize real-time vehicle data accessed via the OBD2 port [dashboard](https://github.com/Demerak/car-dashboard)
+  * Expanding expertise in real-time data through exploration of technologies such as Kafka, Websocket, and io socket
 * Always exploring new resources to enhance data visualization in Python or Javascript
 * Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express
 * Creating a new portfolio website using Nextjs
@@ -28,7 +29,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 
 ##### Python
 * Python Bot on my Discord Server runs on one of my Raspberry Pi
-* I made a multitude of Python scrappers (Amazon, Instagram, NYBits, and more). I used libraries like beautiful soup and selenium to do them. 
+* I made a multitude of Python scrappers (Amazon, Instagram, NYBits, and more). I used libraries like Beautiful Soup and Selenium to do them. 
 
 ##### JavaScript & Web Dev
 * Create a website using JavaScript ([my website](https://demerak.github.io/alex-app/)) 🚧 This is actually my first attempt at a portfolio website
