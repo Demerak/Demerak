@@ -18,6 +18,7 @@ I started this section in 2022. Here's what I have done since then. Once I'm don
 * Always exploring new resources to enhance data visualization in Python or Javascript
 * Working on a personal finance portfolio; the front end is built using React, and the backend is developed with Express
 * Creating a new portfolio website using Nextjs
+  * I'm currently spending some time improving my design skills using Figma
 
 
 ### Things I've worked on and are completed (Archived) :green_book:
